@@ -1,0 +1,19 @@
+
+*{
+  margin:0px;
+  padding: 0px;
+}
+
+.img-heading {
+  font-family: "The Nautigal", cursive;
+  text-align: center;
+  margin-top: 16px;
+  font-size: 46px;
+  font-weight: bolder;
+}
+body {
+  background-color: whitesmoke;
+}
+.buttons{
+  margin-bottom: 3px;
+}
